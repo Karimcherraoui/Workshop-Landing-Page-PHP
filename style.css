@@ -1,0 +1,43 @@
+h1{
+    color: red;
+    text-align: center;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-left: 40%;
+
+}
+.input-nom,
+.input-prenom,
+.input-email,
+.input-age,
+.input-btn{
+    margin: 20px;
+}
+.input-nom input,
+.input-prenom input,
+.input-email input,
+.input-age input{
+    padding: 7px;
+    width: 200px;
+    margin-top: 10px;
+
+}
+.container .btn {
+    margin-left: 25%;
+
+}
+.list{
+    margin-left: 35%;
+    
+}
+.list-group {
+    padding: 20px;
+}
+.btn {
+    margin-left: 50%;
+
+}
+
